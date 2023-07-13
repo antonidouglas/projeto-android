@@ -109,9 +109,10 @@ a.external::after {
 
 main h1 {
     color: #1CD4D4;
-    font-size: 1.8em;
+    font-size: 1.9em;
     font-family: "Audiowide";
-    text-shadow: 0px 0px 3px black;
+    text-shadow: 1px 1px 1px black;
+   
 }
 
 main h2 {
