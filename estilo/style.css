@@ -147,7 +147,7 @@ main img.pequena {
 }
 
 div.video {
-    background-image: url(/imagens/youtube.jpg);
+    background-image: url(../imagens/youtube.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
